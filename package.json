@@ -1,0 +1,9 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ps-node": "^0.1.6"
+  }
+}
