@@ -1,9 +1,9 @@
 {
   "name": "untitled",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "controller/node-stats.js",
   "license": "MIT",
   "dependencies": {
-    "ps-node": "^0.1.6"
+    "express": "^4.17.1"
   }
 }

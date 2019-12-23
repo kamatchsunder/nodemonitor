@@ -15,13 +15,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1VKe6e0Yoyd7koHVj6fVcfHn2nA" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controller" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,12 +48,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../nodeMonitor/index.js" working-dir="$PROJECT_DIR$/../nodeMonitor">
+    <configuration name="node-stats.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/controller/node-stats.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.node-stats.js" />
       </list>
     </recent_temporary>
   </component>
@@ -55,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577006039300</updated>
-      <workItem from="1577006041021" duration="5818000" />
+      <workItem from="1577006041021" duration="10730000" />
     </task>
     <servers />
   </component>
@@ -66,31 +78,31 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../nodeMonitor/index.js</url>
+          <url>file://$PROJECT_DIR$/controller/node-stats.js</url>
           <line>4</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../nodeMonitor/index.js</url>
+          <url>file://$PROJECT_DIR$/controller/node-stats.js</url>
           <line>48</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../nodeMonitor/index.js</url>
+          <url>file://$PROJECT_DIR$/controller/node-stats.js</url>
           <line>14</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../nodeMonitor/index.js</url>
+          <url>file://$PROJECT_DIR$/controller/node-stats.js</url>
           <line>16</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../nodeMonitor/index.js</url>
+          <url>file://$PROJECT_DIR$/controller/node-stats.js</url>
           <line>19</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="11" />
